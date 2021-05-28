@@ -36,8 +36,10 @@ ul{
 }
 #main{
     position: absolute;
-    margin: 150px 375px;
+    margin: 150px auto;
     display: flex;
+    width: 100%;
+    height: 100%;
     flex-direction: column;
     align-items: center;
 }
