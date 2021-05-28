@@ -27,6 +27,9 @@ ul{
 .nav-link:hover{
     text-decoration: underline;
 }
+.nav-link img{
+    height: 30px;
+}
 #google-apps-icon,#google-account-icon{
     border-radius: 100%;
     padding: 3px;
